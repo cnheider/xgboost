@@ -37,7 +37,7 @@
             <properties>
                 <spark.version>2.0.1</spark.version>
                 <flink.suffix>_2.11</flink.suffix>
-                <scala.version>2.11.8</scala.version>
+                <scala.version>2.13.8</scala.version>
                 <scala.binary.version>2.11</scala.binary.version>
             </properties>
         </profile>
